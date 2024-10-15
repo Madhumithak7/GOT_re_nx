@@ -1,0 +1,251 @@
+Actor,Character,Family,Description
+"House Stark
+Sean Bean",Lord Eddard Stark,Stark,Lord of Winterfell.
+Michelle Fairley,Lady Catelyn Stark,Stark,originally of House Tully.
+Richard Madden,Robb Stark,Stark,Eddard's eldest son and heir.
+Sophie Turner,Sansa Stark,Stark,Eddard's eldest daughter.
+Maisie Williams,Arya Stark,Stark,Eddard's youngest daughter.
+Wright,Bran Stark,Stark,Eddard's middle son.
+Art Parkinson,Rickon Stark,Stark,Eddard's youngest son.
+Kit Harington,Jon Snow,Unknown,Eddard's bastard son by an unknown mother.
+Joseph Mawle,Benjen Stark,Stark,"Eddard's younger brother, First Ranger of the Night's Watch."
+"Retainers at Winterfell
+Alfie Allen",Theon Greyjoy,Greyjoy,a ward and hostage for his rebellious father's good behavior.
+Ron Donachie,Ser Rodrik Cassel,Unknown,master of arms.
+Jamie Sives,Jory Cassel,Unknown,"Rodrik's nephew, captain of the guards."
+Donald Sumpter,Maester Luwin,Unknown,a maester of the Citadel.
+Kristian Nairn,Hodor,Unknown,a simple stableboy.
+Margaret John,Old Nan,Unknown,a retired servant and Hodor's great-grandmother.
+Susan Brown,Septa Mordane,Unknown,a religious tutor and governess to Arya and Sansa.
+Esmé Bianco,Ros,Unknown,a prostitute working in Winterfell's outlying town.
+"Vassals and allies of House Stark
+Clive Mantle",Lord Greatjon Umber,Unknown,"Lord of Last Hearth, a loyal vassal of House Stark."
+Dean S. Jagger,Smalljon Umber,Unknown,Greatjon Umber's son and heir.
+Harry Grasby,Ned Umber,Unknown,Smalljon Umber's son.
+John Stahl,Lord Rickard Karstark,Unknown,"Lord of Karhold, a vassal and distant kinsman of House Stark."
+Paul Rattray,Harald Karstark,Unknown,Lord Rickard's son.
+Megan Parkinson,Alys Karstark,Unknown,Harald Karstark's daughter.
+Bella Ramsey,Lady Lyanna Mormont,Mormont,Lady of Bear Island.
+Tim McInnerny,Lord Robett Glover,Unknown,the Master of Deepwood Motte.
+Tom Varey,Lord Cley Cerwyn,Unknown,the heir to House Cerwyn.
+Sean Blowers,Lord Wyman Manderly,Unknown,"Lord of White Harbor, a powerful and loyal vassal of House Stark."
+Sangster,Jojen Reed,Unknown,"the son and heir of Lord Howland Reed, one of Eddard Stark's closest friends and allies."
+Ellie Kendrick,Meera Reed,Unknown,Jojen's older sister.
+"House Bolton
+Michael McElhatton",Lord Roose Bolton,Bolton,"Lord of the Dreadfort, a vassal of Eddard Stark."
+Iwan Rheon,Ramsay Snow,Unknown,Lord Roose's bastard son.
+Noah Taylor,Locke,Unknown,a vassal and hunter in Lord Bolton's service.
+Charlotte Hope,Myranda,Unknown,"the kennel master's daughter at the Dreadfort, and Ramsay's bedwarmer."
+Richard Rycroft,Maester Wolkan,Unknown,a maester in service to House Bolton.
+Jamie Michie,Steelshanks,Unknown,a man-at-arms in service to House Bolton.
+"House Lannister
+Charles Dance",Lord Tywin Lannister,Lannister,"the widowed patriarch of House Lannister and father of Cersei, Jaime and Tyrion."
+Lena Headey,Queen Cersei Lannister,Lannister,"the wife of King Robert, twin sister of Jaime, mother of Joffrey, Myrcella and Tommen."
+Waldau,Ser Jaime Lannister,Lannister,"a knight of the Kingsguard, twin brother of Cersei."
+Peter Dinklage,Tyrion Lannister,Lannister,"Cersei and Jaime's younger brother, called the Imp for his size."
+Ian Gelder,Ser Kevan Lannister,Lannister,Lord Tywin's younger brother and closest adviser.
+Eugene Simon,Lancel Lannister,Lannister,"Ser Kevan's son, a squire to King Robert."
+Karl Davies,Alton Lannister,Lannister,a distant cousin of the main branch of the family.
+"Vassals and allies of House Lannister
+Daniel Portman",Podrick Payne,Unknown,"a squire, a member of one of the Lannisters' vassal families."
+Fintan McKeown,Ser Amory Lorch,Unknown,a loyal vassal and retainer of House Lannister.
+Rory McCann,Sandor Clegane,Clegane,"Prince Joffrey's bodyguard and sworn sword, long in the service of House Lannister. Known as ""the Hound."""
+8),Ser Gregor Clegane,Clegane,"Sandor Clegane's older brother and the most feared knight in Westeros, called ""the Mountain"" because of his massive size."
+Anthony Morris,the Tickler,Unknown,a noted interrogator and torturer in the service of Ser Gregor Clegane.
+Andy Kellegher,Polliver,Unknown,a master-at-arms in the service of Ser Gregor Clegane.
+"House Baratheon
+Mark Addy",King Robert Baratheon,Baratheon,the King of the Andals and the First Men.
+Jack Gleeson,Prince Joffrey Baratheon,Baratheon,King Robert's eldest son and heir.
+2)/Nell Tiger Free,Myrcella Baratheon,Baratheon,King Robert's eldest daughter.
+6),Tommen Baratheon,Baratheon,King Robert's youngest son.
+Gethin Anthony,Lord Renly Baratheon,Baratheon,"King Robert's youngest brother, Lord of Storm's End."
+Stephen Dillane,Lord Stannis Baratheon,Baratheon,"King Robert's middle brother, Lord of Dragonstone."
+Tara Fitzgerald,Lady Selyse Baratheon,Baratheon,"Lord Stannis's wife, originally of House Florent."
+Kerry Ingram,Shireen Baratheon,Baratheon,Lord Stannis's daughter and only child.
+"Vassals and allies of House Baratheon
+Carice van Houten",Melisandre,Unknown,"Lord Stannis's adviser, a red priestess."
+Liam Cunningham,Ser Davos Seaworth,Unknown,"a former smuggler, now Lord Stannis' most loyal vassal."
+Kerr Logan,Matthos Seaworth,Unknown,Ser Davos's son and Lord Stannis' squire.
+Oliver Ford Davies,Maester Cressen,Unknown,Lord Stannis's maester.
+Lucian Msamati,Salladhor Saan,Unknown,a freesail in Stannis's employ.
+Gwendoline Christie,Brienne of Tarth,Unknown,a fierce warrior from the Stormlands.
+"House Arryn
+Kate Dickie",Lady Lysa Arryn,Arryn,"originally of House Tully, Catelyn Stark's sister."
+Lino Facioli,Robin Arryn,Arryn,Lord Jon's only surviving son and heir.
+Brendan McCormack,Ser Vardis Egen,Unknown,the captain of the Eyrie's household guards.
+Ciaran Bermingham,Mord,Unknown,the Eyrie's chief gaoler.
+Jefferson Hall,Ser Hugh of the Vale,Unknown,Lord Jon's former squire.
+Rupert Vansittart,Lord Yohn Royce,Unknown,one of the Arryns' most stalwart vassals and supporters.
+Paola Dionisotti,Lady Anya Waynwood,Unknown,one of the Arryns' vassals.
+Richard Doubleday,Ser Vance Corbray,Unknown,a knight of House Corbray.
+Alisdair Simpson,Ser Donnel Waynwood,Unknown,a knight of House Waynwood.
+Griffiths,Lord Mace Tyrell,Tyrell,Lord of Highgarden and the Reach. Son of Olenna and the father of Loras and Margaery.
+Finn Jones,Ser Loras Tyrell,Tyrell,Lord Renly Baratheon's former squire and a famous tourney knight.
+Natalie Dormer,Margaery Tyrell,Tyrell,Loras's sister.
+Dame Diana Rigg,Olenna Tyrell,Tyrell,"nicknamed the Queen of Thorns, the matriarch of the Tyrell family."
+"Vassals and allies of House Tyrell
+James Faulkner",Lord Randyll Tarly,Unknown,"Lord of Horn Hill, one of the Tyrells' vassals, and father of Samwell Tarly."
+Samantha Spiro,Lady Melessa Tarly,Unknown,Randyll's wife.
+John Bradley,Samwell Tarly,Unknown,Randyll's eldest son who was forced to disinherit.
+Freddie Stroma,Dickon Tarly,Unknown,Randyll's youngest son and heir.
+Rebecca Benson,Talla Tarly,Unknown,Randyll's daughter.
+"House Greyjoy
+Patrick Malahide",Lord Balon Greyjoy,Greyjoy,"Lord of Pyke, father of Theon Greyjoy."
+Gemma Whelan,Yara Greyjoy,Greyjoy,the only daughter of Lord Balon.
+Pilou Asbæk,Euron Greyjoy,Greyjoy,"nicknamed ""Crow's Eye"", a younger brother of Lord Balon."
+Michael Feast,Aeron Greyjoy,Greyjoy,"nicknamed ""Damphair"", a younger brother of Lord Balon."
+Forbes KB,Black Lorren,Unknown,a noted raider and reaver in the service of House Greyjoy.
+Ralph Ineson,Dagmer,Unknown,"a noted raider, reaver and ship captain in the service of House Greyjoy."
+Grahame Fox,Ralf Kenning,Unknown,an ironborn commander.
+"House Tully
+Tobias Menzies",Ser Edmure Tully,Tully,the son and heir of the ailing Lord Hoster Tully and the brother of Lady Catelyn Stark and Lady Lysa Arryn.
+Clive Russell,Ser Brynden Tully,Tully,"Lord Hoster's younger brother, a famous knight known as ""the Blackfish"" for his strained relationship with his brother."
+"House Frey
+David Bradley",Lord Walder Frey,Frey,"Lord of the Twins, an old and prickly vassal of House Tully, past ninety years of age."
+Kelly Long,Joyeuse Frey,Frey,Walder Frey's eigth wife.
+"nicknamed after the limp he has in his left leg.
+Alexandra Dowling",Roslin Frey,Frey,one of Lord Frey's youngest daughters.
+Elizabeth Webster,Walda Frey,Frey,"one of Lord Frey's granddaughters, recently married to Roose Bolton."
+Lucy Hayes,Kitty Frey,Frey,Walder Frey's ninth wife.
+"House Martell
+Alexander Siddig",Prince Doran Martell,Martell,"the ruling Prince of Dorne, who is heavily suffering from gout and confined to a wheelchair."
+Toby Sebastian,Prince Trystane Martell,Martell,Prince Doran’s son and heir to Dorne.
+Pedro Pascal,Prince Oberyn Martell,Martell,popularly known as the Red Viper. Younger brother of the ruling Prince Doran Martell of Dorne.
+Indira Varma,Ellaria Sand,Unknown,"Oberyn's paramour and mother to several of his children, the Sand Snakes."
+Hughes,Obara Sand,Unknown,a fearsome warrior and the eldest bastard daughter of Prince Oberyn.
+Jessica Henwick,Nymeria Sand,Unknown,the second eldest of Prince Oberyn’s bastard daughters.
+Rosabell Laurenti Sellers,Tyene Sand,Unknown,"the daughter of Prince Oberyn by Ellaria Sand, his paramour."
+DeObia Oparei,Areo Hotah,Unknown,"the long-serving captain of Doran Martell’s palace guard, renowned for his loyalty and his longaxe."
+Colin Azzopardi,Maester Caleotte,Unknown,the maester at Sunspear.
+"Riverlands
+Jerome Flynn",Bronn,Unknown,a sellsword met at the Crossroads Inn.
+Emun Elliott,Marillion,Unknown,a singer and troubadour met at the Crossroads Inn.
+Sibel Kekilli,Shae,Unknown,a camp-follower and prostitute attached to the Lannister army.
+Mark Lewis Jones,Shagga,Unknown,a warrior clan chief from the Mountains of the Moon.
+Oona Chaplin,Talisa Maegyr,Unknown,a battlefield nurse originally from Volantis.
+Paul Kaye,Thoros of Myr,Unknown,"a red priest, warrior, famed drinker and friend of King Robert."
+Philip McGinley,Anguy,Unknown,an exceptionally-skilled archer of the Brotherhood Without Banners.
+Anton Lesser,Qyburn,Unknown,a disgraced maester.
+Ian McShane,Brother Ray,Unknown,a former mercenary who now serves the faith.
+Jóhannes Haukur Jóhannesson,Lem,Unknown,a member of the Brotherhood Without Banners.
+"s Landing
+Aidan Gillen",Lord Petyr Baelish,Unknown,"the Master of Coin on the king's Small Council, also known as ""Littlefinger"" for his birthplace."
+Julian Glover,Grand Maester Pycelle,Unknown,the master of wisdom on the king's Small Council.
+Conleth Hill,Varys,Unknown,"a eunuch and the Master of Whisperers on the king's Small Council, also known as ""the Spider"" for his reputation."
+Jonathan Pryce,the High Sparrow,Unknown,the leader of the religious movement known as the Sparrows.
+Ian McElhinney,Lord Commander Barristan Selmy,Unknown,the head of the Kingsguard.
+Ian Beattie,Ser Meryn Trant,Unknown,a knight of the Kingsguard.
+Wilko Johnson,Ser Ilyn Payne,Unknown,the king's headsman and executioner.
+Richard Dormer,Lord Beric Dondarrion,Unknown,a young lord and popular tourney knight.
+Dominic Carter,Commander Janos Slynt,Unknown,the commander of the City Watch of King's Landing.
+Miltos Yerolemou,Syrio Forel,Unknown,a master swordsman from Braavos.
+Andrew Wilde,Tobho Mott,Unknown,a master armorer and smith.
+Joe Dempsie,Gendry,Unknown,Mott's apprentice who is secretly a bastard of King Robert.
+Will Tudor,Olyvar,Unknown,a male prostitute and spy.
+Sahara Knite,Armeca,Unknown,a female prostitute.
+Josephine Gillan,Marei,Unknown,a female prostitute.
+Elizabeth Cadwallader,Lollys Stokeworth,Unknown,a simple-minded noblewoman.
+Eros Vlahos,Lommy Greenhands,Unknown,a dyer's apprentice.
+Ben Hawkey,Hot Pie,Unknown,a baker's apprentice.
+Andy Beckwith,Rorge,Unknown,a street criminal imprisoned in the Red Keep.
+Gerard Jordan,Biter,Unknown,a street criminal imprisoned in the Red Keep.
+Tom Wlaschiha,Jaqen H'ghar,Unknown,a prisoner in the Red Keep.
+Roy Dotrice,Wisdom Hallyne,Unknown,the head of the Alchemists' Guild.
+Paul Bentley,the High Septon,Unknown,the head of the Faith of the Seven.
+Hannah Waddingham,Septa Unella,Unknown,a devoted follower of the High Sparrow.
+Tony Way,Ser Dontos Hollard,Unknown,a knight in service to the crown.
+Sara Dylan,Bernadette,Unknown,a handmaiden of House Lannister.
+"In Oldtown
+Jim Broadbent",Archmaester Ebrose,Unknown,one of the governing members of the Citadel.
+"s Watch
+James Cosmo",Lord Commander Jeor Mormont,Mormont,commander of the Night's Watch.
+Owen Teale,Ser Alliser Thorne,Unknown,in charge of training new recruits.
+Peter Vaughan,Maester Aemon,Unknown,Lord Mormont's closest adviser.
+Michael Condron,Bowen Marsh,Unknown,the First Steward of the Watch.
+Brian Fortune,Othell Yarwyck,Unknown,the First Builder of the Watch.
+Francis Magee,Yoren,Unknown,a recruiter for the Watch.
+Josef Altin,Pypar,Unknown,"a fresh recruit to the Watch, a former actor."
+Mark Stanley,Grenn,Unknown,a fresh recruit to the Watch.
+Luke Barnes,Rast,Unknown,"a fresh recruit to the Watch, arrested for rape."
+Ben Crompton,Eddison Tollett,Unknown,"a squire, noted for his pessimistic sense of humor."
+Simon Armstrong,Qhorin,Unknown,one of the Watch's most respected rangers.
+J.J. Murphy,Ser Denys Mallister,Unknown,a veteran member of the Watch.
+Burn Gorman,Karl Tanner,Unknown,a ranger and former assassin from King's Landing.
+Connor,Olly,Unknown,a young boy from the Gift.
+"Beyond the Wall
+Natalia Tena",Osha,Unknown,a wildling warrior-woman.
+Robert Pugh,Craster,Unknown,a wildling whose keep provides a safehaven for rangers of the Watch.
+Hannah Murray,Gilly,Unknown,one of Craster's daughters.
+Rose Leslie,Ygritte,Unknown,a wildling warrior-woman in the service of Mance Rayder.
+Hennessy,the Lord of Bones,Unknown,a famed wildling warrior.
+Mackenzie Crook,Orell,Unknown,a sinister wildling with unnatural powers.
+Kristofer Hivju,Tormund,Unknown,a charismatic wildling leader.
+Ciarán Hinds,Mance Rayder,Unknown,"the King-Beyond-the-Wall, the leader of all the wildlings by acclamation."
+Yuri Kolokolnikov,Styr,Unknown,the Magnar of Thenn.
+Neil Fingleton,Mag Mar Tun Doh Weg,Unknown,a Giant.
+Struan Rodger,"the Three-Eyed Raven.
+Octavia Alexandru",Unknown,No description
+,Leaf,Unknown,a child of the forest.
+8),the Night King,Unknown,the leader of the White Walkers.
+Ian Whyte,Wun Weg Wun Dar Wun,Unknown,a Giant.
+Birgitte Hjort Sørensen,Karsi,Unknown,a Wildling leader.
+Zahary Baharov,Loboda,Unknown,a Thenn.
+Murray McArthur,Dim Dalba,Unknown,a Wildling elder.
+"In Vaes Dothrak
+Jason Momoa",Khal Drogo,Unknown,the leading warlord of the Dothraki.
+Dar Salim,Qotho,Unknown,one of Drogo's bloodriders.
+Elyes Gabel,Rakharo,Unknown,a Dothraki warrior in Daenerys's service as a bodyguard.
+Steven Cole,Kovarro,Unknown,a Dothraki warrior.
+Amrita Acharia,Irri,Unknown,a handmaiden gifted to Daenerys.
+Roxanne McKee,Doreah,Unknown,a servant and adviser gifted to Daenerys.
+Ivailo Dimitrov,Mago,Unknown,a Dothraki warrior.
+Joe Naufahu,Khal Moro,Unknown,a warlord of the Dothraki.
+Souad Faress,the High Priestess,Unknown,the leader of the Dosh Khaleen.
+Kamen,Ornela,Unknown,a member of the Dosh Khaleen.
+Staz Nair,Qhono,Unknown,a Dothraki warrior.
+"In the Free Cities
+Harry Lloyd",Viserys Targaryen,Targaryen,an exiled Targaryen claimant to the Iron Throne.
+Emilia Clarke,Daenerys Targaryen,Targaryen,claimant to the Iron Throne.
+Iain Glen,Ser Jorah Mormont,Mormont,"a knight of Westeros, exiled by Lord Eddard Stark."
+Roger Allam,Illyrio Mopatis,Unknown,a magister of the Free City of Pentos.
+Mia Soteriou,Mirri Maz Duur,Unknown,a healer of the Lhazareen people.
+Mark Gatiss,Tycho Nestoris,Unknown,a representative of the Iron Bank of Braavos.
+Gary Oliver,Ternesio Terys,Unknown,a trader from Braavos.
+Faye Marsay,the Waif,Unknown,an acolyte of the Faceless Men.
+Richard E. Grant,Izembaro,Unknown,leader of a Braavosi theater troupe.
+Essie Davis,Lady Crane,Unknown,the leading actress in Izembaro's theater troupe.
+Marc Rissmann,Harry Strickland,Unknown,the commander of the Golden Company.
+"In Qarth
+Nonso Anozie",Xaro Xhoan Daxos,Unknown,a merchant lord of Qarth.
+Ian Hanmore,Pyat Pree,Unknown,a warlock of Qarth.
+Laura Pradelska,Quaithe,Unknown,a priestess of the Shadow Lands resident in Qarth.
+Nicholas Blane,the Spice King,Unknown,the leader of the spice merchants of Qarth.
+"s Bay
+Nathalie Emmanuel",Missandei,Unknown,a slave and translator working in the city of Astapor.
+Jacob Anderson,Grey Worm,Unknown,a warrior-eunuch of the Unsullied.
+Dan Hildebrand,Kraznys mo Nakloz,Unknown,a slave-trader and immensely rich merchant in Astapor.
+Clifford Barry,Greizhen mo Ullhor,Unknown,one of the Good Masters of Astapor.
+George Georgiou,Razdal mo Eraz,Unknown,a slave-trader and one of the Wise Masters of Yunkai.
+6),Daario Naharis,Unknown,a charismatic mercenary.
+Mark Killeen,Mero,Unknown,"a mercenary commander from Braavos nicknamed ""The Titan's Bastard""."
+Ramon Tikaram,Prendahl na Ghezn,Unknown,a mercenary commander.
+Joel Fry,Hizdahr zo Loraq,Unknown,a master of Meereen.
+Reece Noi,Mossador,Unknown,a slave in Meereen.
+Agbaje,Malko,Unknown,a pirate.
+Enzo Cilenti,Yezzan zo Qaggaz,Unknown,an extremely wealthy slave-trader in Meereen.
+Meena Rayann,Vala,Unknown,a female prostitute and an associate of the Sons of the Harpy.
+Gerald Lepkowski,Zanrush,Unknown,a red priest based in Meereen.
+Ania Bukstein,Kinvara,Unknown,the High Priestess of the Red Temple of Volantis.
+"s visions
+Robert Aramayo and Sebastian Croft as Eddard Stark.
+Aisling Franciosi and Cordelia Hill as Lyanna Stark.
+Wilf Scolding as Prince Rhaegar Targaryen.
+David Rintoul",King Aerys II Targaryen,Targaryen,"commonly called ""the Mad King""."
+"Matteo Elezi as Benjen Stark.
+Luke Roberts",Ser Arthur Dayne,Unknown,the Sword of the Morning.
+Eddie Eyre,Ser Gerold Hightower,Unknown,Lord Commander of Aerys II Targaryen's Kingsguard.
+Leo Woodruff,Lord Howland Reed,Unknown,the father of Meera and Jojen Reed.
+Sam Coleman,Hodor,Unknown,who was known as a boy called Wylis.
+"Annette Tierney as Old Nan.
+Fergus Leathem as Rodrik Cassel.
+Wayne Foskett",Lord Rickard Stark,Stark,"the father of Brandon, Eddard, Lyanna and Benjen Stark."
