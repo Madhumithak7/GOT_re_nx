@@ -1,1 +1,2 @@
 In this Project I have created a Docs file form using the information copied from the website "https://gameofthrones.fandom.com/wiki/Game_of_Thrones" under the section Cast. With is docs I have created a CSV file which contains columns as Actor, Character, Family and Description. With the usage of generated game_of_thrones_characters.csv file I have tried to develop a network representation.
+In this project I have used Regular expression to read the text from the docs file and use Networkx for graph network representation.
